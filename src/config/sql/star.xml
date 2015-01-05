@@ -2,6 +2,7 @@
 <sqlConfig>
 	<sql name="test" dataprivate="">
 		<![CDATA[
+		select * from sys_dict
 		]]>
 	</sql>
 </sqlConfig>
