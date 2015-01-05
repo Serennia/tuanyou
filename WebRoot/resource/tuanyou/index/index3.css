@@ -1,0 +1,64 @@
+.weixindiv{
+	height: 160px;border: 1px solid gray;background: white;
+	border-radius: 5px;
+}
+.weixindiv em{
+	color: red;
+}
+.weixindiv img{
+	padding-top:20px;
+	float: right;
+}
+.weixindiv1 {
+	padding-top:20px;
+}
+.weixindiv1 p{
+	width: 200px;
+	line-height: 24px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.top a { color: #666; text-decoration:none;font-size:12px; color:#666; font-family: Microsoft YaHei, Verdana,Simsun; }
+.top{ background:#333; height:100px;}
+.mid,.content{ width:1161px; margin:0 auto; overflow:hidden;}
+.logo{ float:left;}
+.nav{ float:left; margin-left:36px;}
+.nav ul,.left,.right,.box,.hd,.bd,.title_list,.res_list,.new_list,.stady_list,.cou_list{ overflow:hidden;}
+.nav ul li{ float:left; line-height:100px;}
+.nav ul li a{ display:block; padding:0 15px; height:100px; font-size:24px; color:#fff; text-decoration:none;}
+.nav ul li a:hover{ text-decoration:none; background:#474343;}
+.r_mess{ line-height:100px; color:#fff; font-size:18px; float:right;}
+.r_mess a{ color:#fff; font-size:18px;}
+.content{ padding-bottom:20px;}
+.top p{line-height: 100px;color: #fff;font-size: 36px;}
+
+
+.footer {
+    border-top-color: #333333;
+    border-top-style: solid;
+    border-top-width: 10px;
+    height: 116px;
+    line-height: 116px;
+    text-align: center;
+}
+
+.header { width: 100%; max-width: 1920px; margin: 0 auto; position: relative; }
+.ggLoading, .ggLoading2 { background-image: url(nav.png); }
+.header { height: 500px; }
+.gg { width: 100%; height: 500px; position: relative; z-index: 1; overflow: hidden; margin: 0 auto; background: #d3d3d3 url(loading.jpg) repeat-x; }
+.ggLoading { position: absolute; left: 40%; top: 200px; width: 325px; text-align: center; height: 56px; background-position: 0 -274px; background-repeat: no-repeat; line-height: 56px; color: #9c9c9c; }
+.ggLoading2 { width: 330px; height: 56px; background-position: 213px -330px; background-repeat: no-repeat; }
+.ggLoading em { font-weight: bold; }
+.ggs { width: 200%; height: 500px; left: -50%; top: 0; position: absolute; }
+.ggBox { width: 1920px; height: 500px; margin: 0 auto; }
+    .ggBox a { display: block; width: 1920px; height: 500px; position: absolute; z-index: 1; opacity: 0.1; }
+    .ggBox img { display: block; width: 1920px; height: 500px; }
+.ggb { position: absolute; width: 100%; left: 0; bottom: 0; height: 40px; z-index: 4; background-color: #32342e; background-repeat: repeat-x; background-position: 50% -40px; }
+.ggBtns { width: 960px; height: 40px; margin: 0 auto; border-left: 1px solid #090908; border-right: 1px solid #6a6a60; }
+    .ggBtns a { float: left; display: block; width: 240px; height: 40px; text-align: center; padding-top: 10px; color: #848380; font-size: 14px; line-height: 40px; background-position: 0 10px; position: relative; top: -10px; outline: none; background-repeat: no-repeat; cursor: pointer; }
+        .ggBtns a em { display: block; width: 210px; height: 40px; margin: 0 auto; overflow: hidden; }
+        .ggBtns a:hover { color: #e7e7e7; }
+        .ggBtns a:focus { outline: none; }
+        .ggBtns a.ggOn { color: #e7e7e7; background-position: 0 0; }
+    .ggb, .ggBtns a { background-image: url(main.jpg); }
+a.ggOn { background-image: url(gg.png); }
