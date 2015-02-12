@@ -3,6 +3,7 @@ package com.tuanyou.comm.utils;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Constant {
 	public static String VALIDATE_CODE_SESS = "validate_code";
 	public static String SYS_USER_INFO = "sysUserInfo";
@@ -25,4 +26,10 @@ public class Constant {
 		LOCK_MENU_LIST.add("sysright");//角色菜单管理
 		LOCK_MENU_LIST.add("sysmenu");//菜单管理
 	}
+	
+	  //默认文件上传路径
+    public static final String default_upload_file_path = new ReadProperties("config/file.properties").getValue("default_upload_file_path");
+
+	  //文件上传路径
+    public static final String upload_file_path = new ReadProperties("config/file.properties").getValue("upload_file_path");
 }

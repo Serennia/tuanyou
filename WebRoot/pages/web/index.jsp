@@ -193,7 +193,9 @@
 			<dl>                                    
 			<dd class="list_pro_title">                                        
 			<a href="#" target="_blank">
-			<img  src="<%=basePath%>resource/tuanyou/index/jd/8.jpg" title="江苏大阳山国家森林公园"></a>
+			<img src="<%=basePath%>resource/tuanyou/index/jd/8.jpg"
+														title="江苏大阳山国家森林公园">
+													</a>
 			</dd>                                    
 			<dd class="list_pro_name clearfix">                                        
 			<a href="#" target="_blank" title="江苏大阳山国家森林公园">
@@ -243,6 +245,446 @@
     </div>
 </div>
 <!--景点部分 end-->
+
+<!--周末游部分 start-->
+<div>
+    <div class="title_box zm_title">
+        <h2 title="周末游">周末游</h2>
+        <span class="title_bg"></span>
+    </div>
+    <div class="list_content zm_box clearfix">
+        <div id="selfListBox" class="zm_left_box travelView zm_list_box">
+<div id="portal-block-1292069552428" class="udiyblock" type="CommonSource"> 		<div class="city_body clearfix">
+		<div class="city_con clearfix">
+		<ul class="city_name_ul">	
+											<li class="city_content city_active" isload="1" city-id="226" city-name="" city-py="suzhou" city-type="1" data-length="8"> 
+				   <a title="精选" href="javascript:void(0);" class="city_item clearfix"><i>&nbsp;</i>          
+				   <span>精选</span>        
+				   </a>                   
+			    </li>
+															<li class="city_content " city-id="386" city-name="金华" city-py="jinhua" city-type="1">       
+				   <a title="金华" href="javascript:void(0);" class="city_item clearfix"><i>&nbsp;</i>          
+				   <span>金华</span>             
+				   </a>                   
+			    </li>
+															<li class="city_content " city-id="321" city-name="上海" city-py="shanghai" city-type="1">       
+				   <a title="上海" href="javascript:void(0);" class="city_item clearfix"><i>&nbsp;</i>          
+				   <span>上海</span>             
+				   </a>                   
+			    </li>
+															<li class="city_content " city-id="229" city-name="无锡" city-py="wuxi" city-type="1">       
+				   <a title="无锡" href="javascript:void(0);" class="city_item clearfix"><i>&nbsp;</i>          
+				   <span>无锡</span>             
+				   </a>                   
+			    </li>
+															<li class="city_content " city-id="221" city-name="常州" city-py="changzhou" city-type="1">       
+				   <a title="常州" href="javascript:void(0);" class="city_item clearfix"><i>&nbsp;</i>          
+				   <span>常州</span>             
+				   </a>                   
+			    </li>
+									</ul>  	
+		<div class="city_more_con" id="moreTravelViewcity">                            
+			<a class="city_item more_city    " href="javascript:void(0);"><i></i>
+			<span class="more_city_choose"><span class="city_name_m">更多省市</span><span class="more_city_arrow"><b></b></span></span></a>  
+			<div class="more_city_box" id="recMoreTravelCitycontent" style="display: none;"><div class="city_tab_content clearfix"><span class="city_name" city-name="南京" city-id="224" city-py="nanjing" city-type="1">南京</span><span class="city_name" city-name="北京" city-id="53" city-py="beijing" city-type="1">北京</span><span class="city_name" city-name="广州" city-id="80" city-py="guangzhou" city-type="1">广州</span><span class="city_name" city-name="深圳" city-id="91" city-py="shenzhen" city-type="1">深圳</span><span class="city_name" city-name="杭州" city-id="383" city-py="hangzhou" city-type="1">杭州</span><span class="city_name" city-name="成都" city-id="324" city-py="chengdu" city-type="1">成都</span><span class="city_name" city-name="江苏" city-id="16" city-py="jiangsu" city-type="2">江苏</span><span class="city_name" city-name="浙江" city-id="31" city-py="zhejiang" city-type="2">浙江</span><span class="city_name" city-name="安徽" city-id="2" city-py="anhui" city-type="2">安徽</span><span class="city_name" city-name="江西" city-id="17" city-py="jiangxi" city-type="2">江西</span><span class="city_name" city-name="海南" city-id="9" city-py="hainan" city-type="2">海南</span><span class="city_name" city-name="广东" city-id="6" city-py="guangdong" city-type="2">广东</span><span class="city_name" city-name="福建" city-id="4" city-py="fujian" city-type="2">福建</span><span class="city_name" city-name="广西" city-id="7" city-py="guangxi" city-type="2">广西</span><span class="city_name" city-name="山东" city-id="22" city-py="shandong" city-type="2">山东</span><span class="city_name" city-name="天津" city-id="27" city-py="tianjin" city-type="2">天津</span><span class="city_name" city-name="河北" city-id="10" city-py="hebei" city-type="2">河北</span><span class="city_name" city-name="黑龙江" city-id="12" city-py="heilongjiang" city-type="2">黑龙江</span><span class="city_name" city-name="吉林" city-id="15" city-py="jilin" city-type="2">吉林</span><span class="city_name" city-name="辽宁" city-id="18" city-py="liaoning" city-type="2">辽宁</span><span class="city_name" city-name="内蒙古" city-id="19" city-py="neimenggu" city-type="2">内蒙古</span><span class="city_name" city-name="山西" city-id="23" city-py="shanxi" city-type="2">山西</span><span class="city_name" city-name="宁夏" city-id="20" city-py="ningxia" city-type="2">宁夏</span><span class="city_name" city-name="甘肃" city-id="5" city-py="gansu" city-type="2">甘肃</span><span class="city_name" city-name="新疆" city-id="29" city-py="xinjiang" city-type="2">新疆</span><span class="city_name" city-name="河南" city-id="11" city-py="henan" city-type="2">河南</span><span class="city_name" city-name="陕西" city-id="24" city-py="shanxi" city-type="2">陕西</span><span class="city_name" city-name="湖北" city-id="13" city-py="hubei" city-type="2">湖北</span><span class="city_name" city-name="湖南" city-id="14" city-py="hunan" city-type="2">湖南</span><span class="city_name" city-name="重庆" city-id="32" city-py="chonogqing" city-type="2">重庆</span><span class="city_name" city-name="四川" city-id="26" city-py="sichuan" city-type="2">四川</span><span class="city_name" city-name="贵州" city-id="8" city-py="guizhou" city-type="2">贵州</span><span class="city_name" city-name="云南" city-id="30" city-py="yunnan" city-type="2">云南</span><span class="city_name" city-name="西藏" city-id="28" city-py="xizang" city-type="2">西藏</span><span class="city_name" city-name="青海" city-id="21" city-py="qinghai" city-type="2">青海</span></div></div>			
+		</div> 
+		<a class="about_city_more" target="_blank" href="http://www.ly.com/zizhuyou/" title="更多周末游">更多周末游<span>&gt;&gt;</span></a>             
+		</div>
+	</div>
+		</div>
+<div id="portal-block-792027267850" class="udiyblock" type="CommonSource"> <div class="product_con" id="selfListBox226">
+	<div class="content_body panel_active">
+	<div style="overflow: hidden; position: relative;" class="travel_slider">
+	<ul style="width: 2052px; position: relative; left: 0px;" class="clearfix"><li>         
+		   <dl>           
+		   <dd class="list_pro_title"> 
+		   <a href="http://www.ly.com/zizhuyou/shanghai321/58183-xianlu/#Resys=56_DC_9SeDG4_4_B_4" title="上海科技馆/上海长风海洋世界门票2张+上海雅高美爵酒店住宿1晚+中西自助双早" target="_blank">
+		   <img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="<%=basePath%>resource/tuanyou/index/zm/1.jpg"></a>     
+		   <p class="pro_city"><i class="price_bg"></i> <span>
+		   <a href="http://www.ly.com/zizhuyou/shanghai321/58183-xianlu/#Resys=56_DC_9SeDG4_4_B_4">上海</a></span>
+		   </p>                         
+		   </dd>         
+		   <dd class="pro_name">               
+		   <a class="combo_name" title="上海科技馆/上海长风海洋世界门票2张+上海雅高美爵酒店住宿1晚+中西自助双早" href="http://www.ly.com/zizhuyou/shanghai321/58183-xianlu/#Resys=56_DC_9SeDG4_4_B_4" target="_blank">上海科技馆/上海长风海洋世界门票2张+上海雅高美爵酒店住宿1晚+中西自助双早</a> </dd>  
+		   <dd class="list_pro_name clearfix">       
+		   <span class="pro_price">
+		    								   <span class="dollar">¥<span style="font-weight: bold;">479</span></span>起/份</span>   
+		   <span class="save"><i>&nbsp;</i><strong>¥1029</strong></span>    
+		   </dd>                           
+		   </dl>                     
+		</li><li>         
+		   <dl>           
+		   <dd class="list_pro_title"> 
+		   <a href="http://www.ly.com/zizhuyou/changbaishanbaohuqu4569/59983-xianlu/#Resys=56_DC_9SeDG4_5_B_5" title="万达滑雪之旅+万达喜来登度假酒店3晚" target="_blank">
+		   <img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="<%=basePath%>resource/tuanyou/index/zm/2.jpg"></a>     
+		   <p class="pro_city"><i class="price_bg"></i> <span>
+		   <a href="http://www.ly.com/zizhuyou/changbaishanbaohuqu4569/59983-xianlu/#Resys=56_DC_9SeDG4_5_B_5">长白山保护区</a></span>
+		   </p>                         
+		   </dd>         
+		   <dd class="pro_name">               
+		   <a class="combo_name" title="万达滑雪之旅+万达喜来登度假酒店3晚" href="http://www.ly.com/zizhuyou/changbaishanbaohuqu4569/59983-xianlu/#Resys=56_DC_9SeDG4_5_B_5" target="_blank">万达滑雪之旅+万达喜来登度假酒店3晚</a> </dd>  
+		   <dd class="list_pro_name clearfix">       
+		   <span class="pro_price">
+		    								   <span class="dollar">¥<span style="font-weight: bold;">3088</span></span>起/份</span>   
+		   <span class="save"><i>&nbsp;</i><strong>¥5912</strong></span>    
+		   </dd>                           
+		   </dl>                     
+		</li><li>         
+		   <dl>           
+		   <dd class="list_pro_title"> 
+		   <a href="http://www.ly.com/zizhuyou/zhangjiakou149/43906-xianlu/#Resys=56_DC_9SeDG4_6_B_6" title="张家口云顶大酒店+自选全天滑雪票+双份自助早餐+免费娱乐休闲项目" target="_blank">
+		   <img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="<%=basePath%>resource/tuanyou/index/zm/3.jpg"></a>     
+		   <p class="pro_city"><i class="price_bg"></i> <span>
+		   <a href="http://www.ly.com/zizhuyou/zhangjiakou149/43906-xianlu/#Resys=56_DC_9SeDG4_6_B_6">张家口</a></span>
+		   </p>                         
+		   </dd>         
+		   <dd class="pro_name">               
+		   <a class="combo_name" title="张家口云顶大酒店+自选全天滑雪票+双份自助早餐+免费娱乐休闲项目" href="http://www.ly.com/zizhuyou/zhangjiakou149/43906-xianlu/#Resys=56_DC_9SeDG4_6_B_6" target="_blank">张家口云顶大酒店+自选全天滑雪票+双份自助早餐+免费娱乐休闲项目</a> </dd>  
+		   <dd class="list_pro_name clearfix">       
+		   <span class="pro_price">
+		    								   <span class="dollar">¥<span style="font-weight: bold;">868</span></span>起/份</span>   
+		   <span class="save"><i>&nbsp;</i><strong>¥1120</strong></span>    
+		   </dd>                           
+		   </dl>                     
+		</li><li>         
+		   <dl>           
+		   <dd class="list_pro_title"> 
+		   <a href="http://www.ly.com/zizhuyou/nanjing224/27222-xianlu/#Resys=56_DC_9SeDG4_7_B_7" title="颐尚温泉+句容余坤开元大酒店+儿童乐园+恒温泳池+健身房" target="_blank">
+		   <img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="<%=basePath%>resource/tuanyou/index/zm/4.jpg"></a>     
+		   <p class="pro_city"><i class="price_bg"></i> <span>
+		   <a href="http://www.ly.com/zizhuyou/nanjing224/27222-xianlu/#Resys=56_DC_9SeDG4_7_B_7">南京</a></span>
+		   </p>                         
+		   </dd>         
+		   <dd class="pro_name">               
+		   <a class="combo_name" title="颐尚温泉+句容余坤开元大酒店+儿童乐园+恒温泳池+健身房" href="http://www.ly.com/zizhuyou/nanjing224/27222-xianlu/#Resys=56_DC_9SeDG4_7_B_7" target="_blank">颐尚温泉+句容余坤开元大酒店+儿童乐园+恒温泳池+健身房</a> </dd>  
+		   <dd class="list_pro_name clearfix">       
+		   <span class="pro_price">
+		    								   <span class="dollar">¥<span style="font-weight: bold;">509</span></span>起/份</span>   
+		   <span class="save"><i>&nbsp;</i><strong>¥1207</strong></span>    
+		   </dd>                           
+		   </dl>                     
+		</li><li>         
+		   <dl>           
+		   <dd class="list_pro_title"> 
+		   <a href="http://www.ly.com/zizhuyou/hangzhou383/47386-xianlu/#Resys=56_DC_9SeDG4_8_B_8" title="西溪西湖自选套餐+西溪悦榕庄1晚+双早" target="_blank">
+		   <img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="%E5%90%8C%E7%A8%8B%E6%97%85%E6%B8%B8-%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2%EF%BC%8C%E7%89%B9%E4%BB%B7%E6%9C%BA%E7%A5%A8%EF%BC%8C%E6%99%AF%E7%82%B9%E9%97%A8%E7%A5%A8%EF%BC%8C%E5%87%BA%E5%9B%BD%E6%97%85%E6%B8%B8%EF%BC%8C%E9%82%AE%E8%BD%AE%E6%97%85%E8%A1%8C%EF%BC%8C%E8%87%AA%E5%8A%A9%E6%B8%B8_files/201403100812507921.jpg"></a>     
+		   <p class="pro_city"><i class="price_bg"></i> <span>
+		   <a href="http://www.ly.com/zizhuyou/hangzhou383/47386-xianlu/#Resys=56_DC_9SeDG4_8_B_8">杭州</a></span>
+		   </p>                         
+		   </dd>         
+		   <dd class="pro_name">               
+		   <a class="combo_name" title="西溪西湖自选套餐+西溪悦榕庄1晚+双早" href="http://www.ly.com/zizhuyou/hangzhou383/47386-xianlu/#Resys=56_DC_9SeDG4_8_B_8" target="_blank">西溪西湖自选套餐+西溪悦榕庄1晚+双早</a> </dd>  
+		   <dd class="list_pro_name clearfix">       
+		   <span class="pro_price">
+		    								   <span class="dollar">¥<span style="font-weight: bold;">30</span></span>起/份</span>   
+		   <span class="save"><i>&nbsp;</i><strong>¥5</strong></span>    
+		   </dd>                           
+		   </dl>                     
+		</li><li>         
+		   <dl>           
+		   <dd class="list_pro_title"> 
+		   <a href="http://www.ly.com/zizhuyou/jinhua386/21848-xianlu/#Resys=56_DC_9SeDG4_1_B_1" title="横店影视城(4景点+梦幻谷)门票2张+影视城旗下酒店1晚" target="_blank">
+		   <img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="%E5%90%8C%E7%A8%8B%E6%97%85%E6%B8%B8-%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2%EF%BC%8C%E7%89%B9%E4%BB%B7%E6%9C%BA%E7%A5%A8%EF%BC%8C%E6%99%AF%E7%82%B9%E9%97%A8%E7%A5%A8%EF%BC%8C%E5%87%BA%E5%9B%BD%E6%97%85%E6%B8%B8%EF%BC%8C%E9%82%AE%E8%BD%AE%E6%97%85%E8%A1%8C%EF%BC%8C%E8%87%AA%E5%8A%A9%E6%B8%B8_files/201404250942598715.png"></a>     
+		   <p class="pro_city"><i class="price_bg"></i> <span>
+		   <a href="http://www.ly.com/zizhuyou/jinhua386/21848-xianlu/#Resys=56_DC_9SeDG4_1_B_1">金华</a></span>
+		   </p>                         
+		   </dd>         
+		   <dd class="pro_name">               
+		   <a class="combo_name" title="横店影视城(4景点+梦幻谷)门票2张+影视城旗下酒店1晚" href="http://www.ly.com/zizhuyou/jinhua386/21848-xianlu/#Resys=56_DC_9SeDG4_1_B_1" target="_blank">横店影视城(4景点+梦幻谷)门票2张+影视城旗下酒店1晚</a> </dd>  
+		   <dd class="list_pro_name clearfix">       
+		   <span class="pro_price">
+		    								   <span class="dollar">¥<span style="font-weight: bold;">1040</span></span>起/份</span>   
+		   <span class="save"><i>&nbsp;</i><strong>¥1160</strong></span>    
+		   </dd>                           
+		   </dl>                     
+		</li><li>         
+		   <dl>           
+		   <dd class="list_pro_title"> 
+		   <a href="http://www.ly.com/zizhuyou/xian317/27553-xianlu/#Resys=56_DC_9SeDG4_2_B_2" title="爱琴海温泉门票2张+华清爱琴海国际温泉酒店客房1晚（多套餐自选）" target="_blank">
+		   <img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="%E5%90%8C%E7%A8%8B%E6%97%85%E6%B8%B8-%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2%EF%BC%8C%E7%89%B9%E4%BB%B7%E6%9C%BA%E7%A5%A8%EF%BC%8C%E6%99%AF%E7%82%B9%E9%97%A8%E7%A5%A8%EF%BC%8C%E5%87%BA%E5%9B%BD%E6%97%85%E6%B8%B8%EF%BC%8C%E9%82%AE%E8%BD%AE%E6%97%85%E8%A1%8C%EF%BC%8C%E8%87%AA%E5%8A%A9%E6%B8%B8_files/201307170721053205.jpg"></a>     
+		   <p class="pro_city"><i class="price_bg"></i> <span>
+		   <a href="http://www.ly.com/zizhuyou/xian317/27553-xianlu/#Resys=56_DC_9SeDG4_2_B_2">西安</a></span>
+		   </p>                         
+		   </dd>         
+		   <dd class="pro_name">               
+		   <a class="combo_name" title="爱琴海温泉门票2张+华清爱琴海国际温泉酒店客房1晚（多套餐自选）" href="http://www.ly.com/zizhuyou/xian317/27553-xianlu/#Resys=56_DC_9SeDG4_2_B_2" target="_blank">爱琴海温泉门票2张+华清爱琴海国际温泉酒店客房1晚（多套餐自选）</a> </dd>  
+		   <dd class="list_pro_name clearfix">       
+		   <span class="pro_price">
+		    								   <span class="dollar">¥<span style="font-weight: bold;">609</span></span>起/份</span>   
+		   <span class="save"><i>&nbsp;</i><strong>¥1047</strong></span>    
+		   </dd>                           
+		   </dl>                     
+		</li><li>         
+		   <dl>           
+		   <dd class="list_pro_title"> 
+		   <a href="http://www.ly.com/zizhuyou/wuxi229/44988-xianlu/#Resys=56_DC_9SeDG4_3_B_3" title="无锡景点门票特惠团" target="_blank">
+		   <img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="%E5%90%8C%E7%A8%8B%E6%97%85%E6%B8%B8-%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2%EF%BC%8C%E7%89%B9%E4%BB%B7%E6%9C%BA%E7%A5%A8%EF%BC%8C%E6%99%AF%E7%82%B9%E9%97%A8%E7%A5%A8%EF%BC%8C%E5%87%BA%E5%9B%BD%E6%97%85%E6%B8%B8%EF%BC%8C%E9%82%AE%E8%BD%AE%E6%97%85%E8%A1%8C%EF%BC%8C%E8%87%AA%E5%8A%A9%E6%B8%B8_files/201405121101377851.jpg"></a>     
+		   <p class="pro_city"><i class="price_bg"></i> <span>
+		   <a href="http://www.ly.com/zizhuyou/wuxi229/44988-xianlu/#Resys=56_DC_9SeDG4_3_B_3">无锡</a></span>
+		   </p>                         
+		   </dd>         
+		   <dd class="pro_name">               
+		   <a class="combo_name" title="无锡景点门票特惠团" href="http://www.ly.com/zizhuyou/wuxi229/44988-xianlu/#Resys=56_DC_9SeDG4_3_B_3" target="_blank">无锡景点门票特惠团</a> </dd>  
+		   <dd class="list_pro_name clearfix">       
+		   <span class="pro_price">
+		    								   <span class="dollar">¥<span style="font-weight: bold;">130</span></span>起/份</span>   
+		   <span class="save"><i>&nbsp;</i><strong>¥-25</strong></span>    
+		   </dd>                           
+		   </dl>                     
+		</li></ul>
+	<div class="content-rec-btn rec-sen" style="display: none;">      
+		<a id="btnSenicPrev" class="rec-s-pre rec-btn" href="javascript:void(0);">       
+		<i class="home-rec-bg"></i>       
+		</a>                   
+		<a id="btnSenicLast" class="rec-s-next rec-btn" href="javascript:void(0);">        
+		<i class="home-rec-bg"></i>              
+		</a>             
+	</div>
+</div>
+</div>
+	<div class="content_body "></div>
+	<div class="content_body "></div>
+	<div class="content_body "></div>
+	<div class="content_body "></div>
+	<div class="more_city_panel"></div>
+</div></div>
+        </div>
+        <div class="zm_right_box">            
+			<div id="portal-block-120161783272" class="udiyblock" type="CommonSource"> <h2>周末去哪玩</h2>
+<div class="season_hot">
+		<a href="http://www.ly.com/zhuanti/qgnswqj-zizhuyou/" target="_blank">
+		<img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="<%=basePath%>resource/tuanyou/index/zm/zmqnw.jpg" alt="一元景点">
+	</a>
+	</div>
+<div class="season_theme">
+										<p class="clearfix">
+							<a href="http://www.ly.com/zizhuyou/linesearchlist.aspx?keyword=%E8%8B%8F%E5%B7%9E%E5%8F%A4%E9%95%87" target="_blank" class="theme_list1">悠游古镇 </a>
+									<a href="http://www.ly.com/zizhuyou/linesearchlist.aspx?keyword=%E8%8B%8F%E5%B7%9E%E5%9B%AD%E6%9E%97" target="_blank" class="theme_list2">园林 </a>
+									</p>
+				<p class="clearfix">
+							<a href="http://www.ly.com/zizhuyou/linesearchlist.aspx?keyword=%E8%8B%8F%E5%B7%9E%E4%B9%90%E5%9B%AD" target="_blank" class="theme_list3">乐园 </a>
+									<a href="http://www.ly.com/zizhuyou/LineSearchList.aspx?ktype=3&amp;keyword=%E8%8B%8F%E5%B7%9E%E6%B8%A9%E6%B3%89" target="_blank" class="theme_list4">温泉 </a>
+									</p>
+				<p class="clearfix">
+							<a href="http://www.ly.com/zizhuyou/LineSearchList.aspx?keyword=%E8%8B%8F%E5%B7%9E%E5%B1%B1%E6%B0%B4" target="_blank" class="theme_list5">山水 </a>
+									<a href="http://www.ly.com/zizhuyou/linesearchlist.aspx?keyword=%E9%87%91%E9%B8%A1%E6%B9%96" target="_blank" class="theme_list6">城市观光 </a>
+				</p>
+	</div>
+</div>
+		</div>
+    </div>
+</div>
+<!--周末部分 end-->
+
+<!--出境游部分 start-->
+<div class="clearfix">
+<div class="ab_leftbox">
+    <div class="title_box ab_title clearfix">
+        <div class="left_abroad">
+            <h2 title="出境游/邮轮">出境游/邮轮</h2>
+            <span class="title_bg"></span>
+        </div>
+        <div class="right_abroad">
+            <span class="change_icon_new"></span>
+            <a style="display:none;" id="prevTap"></a>
+            <a class="ab_change" id="nextTap" href="javascript:void(0);">换一批</a>
+        </div>
+    </div>
+    <div class="list_content ab_box clearfix">
+        <div style="overflow: hidden; position: relative;" id="abroadListBox" class="ab_listbox">
+            <div class="ab_lcontent">
+				<div id="portal-block-339380316449" class="udiyblock" type="CommonSource"> <ul style="height: 1456px; position: relative;" class="clearfix" id="abListcontent">
+	<li>
+		<a href="http://www.ly.com/dujiatag/shanghai/chujingyou/shouer/237.html" class="ab_imgbig" target="_blank">
+			<img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="<%=basePath%>resource/tuanyou/index/cj/1.jpg" alt="首尔">
+			<i></i>
+			<span>首尔</span>
+		</a>
+		<a href="http://www.ly.com/dujiatag/shanghai/zizhuyou/jizhoudao/1764.html" class="ab_imgbig" target="_blank">
+			<img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="<%=basePath%>resource/tuanyou/index/cj/2.jpg" alt="济州岛">
+			<i></i>
+			<span>济州岛</span>
+		</a>
+		<a href="http://www.ly.com/dujiatag/shanghai/chujingyou/mangu/2935.html" class="ab_imgsmall" target="_blank">
+			<img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="<%=basePath%>resource/tuanyou/index/cj/3.jpg" alt="曼谷">
+			<i></i>
+			<span>曼谷</span>
+		</a>
+		<a href="http://www.ly.com/youlun/cruise-line-0-3-0-0-0.html" class="ab_imgsmall" target="_blank">
+			<img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="<%=basePath%>resource/tuanyou/index/cj/4.jpg" alt="歌诗达邮轮">
+			<i></i>
+			<span>歌诗达邮轮</span>
+		</a>
+		<a href="http://www.ly.com/youlun/cruise-line-3-0-0-0-0.html" class="ab_imgbig" target="_blank">
+			<img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="<%=basePath%>resource/tuanyou/index/cj/5.jpg" alt="日韩航线">
+			<i></i>
+			<span>日韩航线</span>
+		</a>
+		<a href="http://www.ly.com/youlun/cruise-line-1-0-0-0-0.html" class="ab_imgbig" target="_blank">
+			<img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="<%=basePath%>resource/tuanyou/index/cj/6.jpg" alt="东南亚航线">
+			<i></i>
+			<span>东南亚航线</span>
+		</a>
+	</li>
+	<li>
+		<a href="http://www.ly.com/dujiatag/shanghai/chujingyou/xianggang/231.html" nalt="香港" nsrc="http://img1.40017.cn/cn/comm/images/product/20141210/2-1.jpg" class=" ab_imgbig" target="_blank">
+			<i></i>
+			<span>香港</span>
+		</a>
+		<a href="http://www.ly.com/dujiatag/shanghai/zizhuyou/maerdaifu/3008.html" nalt="马尔代夫" nsrc="http://img1.40017.cn/cn/comm/images/product/20141210/2-2.jpg" class=" ab_imgbig" target="_blank">
+			<i></i>
+			<span>马尔代夫</span>
+		</a>
+		<a href="http://www.ly.com/dujiatag/shanghai/chujingyou/ouzhou/1392.html" nalt="欧洲" nsrc="http://img1.40017.cn/cn/comm/images/product/20141210/2-3.jpg" class=" ab_imgsmall" target="_blank">
+			<i></i>
+			<span>欧洲</span>
+		</a>
+		<a href="http://www.ly.com/youlun/cruise-line-138-0-0-0-0.html" nalt="爱琴海航线" nsrc="http://img1.40017.cn/cn/comm/images/product/20140913/1008daxiyang.jpg" class=" ab_imgsmall" target="_blank">
+			<i></i>
+			<span>爱琴海航线</span>
+		</a>
+		<a href="http://www.ly.com/youlun/cruise-line-136-0-0-0-0.html" nalt="地中海航线" nsrc="http://img1.40017.cn/cn/comm/images/product/20141030/20141030.jpg" class=" ab_imgbig" target="_blank">
+			<i></i>
+			<span>地中海航线</span>
+		</a>
+		<a href="http://www.ly.com/youlun/cruise-line-7-0-0-0-0.html" nalt="极地航线" nsrc="http://img1.40017.cn/cn/comm/images/product/20140913/1215-haina.jpg" class=" ab_imgbig" target="_blank">
+			<i></i>
+			<span>极地航线</span>
+		</a>
+	</li>
+	<li>
+		<a href="http://www.ly.com/dujiatag/shanghai/chujingyou/meiguo/282.html" nalt="美国" nsrc="http://img1.40017.cn/cn/comm/images/product/20141210/3-1.jpg" class=" ab_imgbig" target="_blank">
+			<i></i>
+			<span>美国</span>
+		</a>
+		<a href="http://www.ly.com/dujiatag/shanghai/zizhuyou/saibandao/3006.html" nalt="塞班岛" nsrc="http://img1.40017.cn/cn/comm/images/product/20141210/3-2.jpg" class=" ab_imgbig" target="_blank">
+			<i></i>
+			<span>塞班岛</span>
+		</a>
+		<a href="http://www.ly.com/dujiatag/shanghai/chujingyou/tuerqi/260.htmll" nalt="土耳其" nsrc="http://img1.40017.cn/cn/comm/images/product/20141210/3-3.jpg" class=" ab_imgsmall" target="_blank">
+			<i></i>
+			<span>土耳其</span>
+		</a>
+		<a href="http://www.ly.com/youlun/cruise-line-137-0-0-0-0.html" nalt="加勒比海航线" nsrc="http://img1.40017.cn/cn/comm/images/product/20140913/216gesida.jpg" class=" ab_imgsmall" target="_blank">
+			<i></i>
+			<span>加勒比海航线</span>
+		</a>
+		<a href="http://www.ly.com/youlun/cruise-line-0-2-0-0-0.html" nalt="皇家加勒比邮轮" nsrc="http://img1.40017.cn/cn/comm/images/product/20141202/huang.jpg" class=" ab_imgbig" target="_blank">
+			<i></i>
+			<span>皇家加勒比邮轮</span>
+		</a>
+		<a href="http://www.ly.com/youlun/cruise/70653.html" nalt="赛琳娜邮轮-爱琴海航线" nsrc="http://img1.40017.cn/cn/comm/images/product/20140913/1210shailinna.jpg" class=" ab_imgbig" target="_blank">
+			<i></i>
+			<span>赛琳娜邮轮-爱琴海航线</span>
+		</a>
+	</li>
+</ul></div>
+			</div>
+        </div>
+
+    </div>
+</div>
+<div class="ab_rightbox">
+	<div id="portal-block-1406583701687" class="udiyblock" type="CommonSource"> 
+<div class="tuan_title">
+	<h2>酒店团购精选</h2>
+	<div>
+		<i class="change_icon_new"></i>
+		<a style="display:none;" id="prevTap1"></a>
+		<a class="ab_change" id="nextTap1" href="javascript:void(0);">换一批</a>
+	</div>
+</div>
+<div class="tuan_box">
+	<div class="tuangouConLi">
+		<div style="overflow: hidden; position: relative;" id="hotelConSliderDiv" class="tuan_cbox">
+							<ul style="height: 1218px; position: relative;" id="hotelConDiv" class="tuan_content clearfix">
+							<li>
+				<div class="tuan_imgInf">
+																				<a href="http://tuan.ly.com/hotel/detail-300798.html" title="无锡戏江南商务酒店" class="hotelA" target="_blank">
+						<img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="<%=basePath%>resource/tuanyou/index/cj/jd1.jpg" alt="无锡戏江南商务酒店">
+						<p class="tgWd">无锡戏江南商务酒店</p>
+					</a>
+				</div>
+				<div class="tuan_priceInf">
+					<i>¥</i><span class="discount_price">149</span>
+					<span class="cost_price">¥369</span>
+					<span class="sale_price">4.0折</span>
+				</div>
+				</li>
+							<li>
+				<div class="tuan_imgInf">
+																				<a href="http://tuan.ly.com/hotel/detail-720949.html" title="无锡国际饭店" class="hotelA" target="_blank">
+						<img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="<%=basePath%>resource/tuanyou/index/cj/jd2.jpg" alt="无锡国际饭店">
+						<p class="tgWd">无锡国际饭店</p>
+					</a>
+				</div>
+				<div class="tuan_priceInf">
+					<i>¥</i><span class="discount_price">680</span>
+					<span class="cost_price">¥680</span>
+					<span class="sale_price">10.0折</span>
+				</div>
+				</li>
+							<li>
+				<div class="tuan_imgInf">
+																				<a href="http://tuan.ly.com/hotel/detail-711051.html" title="苏州环秀晓筑养生度假村" class="hotelA" target="_blank">
+						<img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="%E5%90%8C%E7%A8%8B%E6%97%85%E6%B8%B8-%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2%EF%BC%8C%E7%89%B9%E4%BB%B7%E6%9C%BA%E7%A5%A8%EF%BC%8C%E6%99%AF%E7%82%B9%E9%97%A8%E7%A5%A8%EF%BC%8C%E5%87%BA%E5%9B%BD%E6%97%85%E6%B8%B8%EF%BC%8C%E9%82%AE%E8%BD%AE%E6%97%85%E8%A1%8C%EF%BC%8C%E8%87%AA%E5%8A%A9%E6%B8%B8_files/f3631bde3b5242fbaad2f67ffeeb84a9.jpg" alt="苏州环秀晓筑养生度假村">
+						<p class="tgWd">苏州环秀晓筑养生度假村</p>
+					</a>
+				</div>
+				<div class="tuan_priceInf">
+					<i>¥</i><span class="discount_price">842</span>
+					<span class="cost_price">¥1430</span>
+					<span class="sale_price">5.9折</span>
+				</div>
+				</li>
+							<li>
+				<div class="tuan_imgInf">
+																				<a href="http://tuan.ly.com/hotel/detail-596301.html" title="苏州吴宫泛太平洋酒店" class="hotelA" target="_blank">
+						<img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="%E5%90%8C%E7%A8%8B%E6%97%85%E6%B8%B8-%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2%EF%BC%8C%E7%89%B9%E4%BB%B7%E6%9C%BA%E7%A5%A8%EF%BC%8C%E6%99%AF%E7%82%B9%E9%97%A8%E7%A5%A8%EF%BC%8C%E5%87%BA%E5%9B%BD%E6%97%85%E6%B8%B8%EF%BC%8C%E9%82%AE%E8%BD%AE%E6%97%85%E8%A1%8C%EF%BC%8C%E8%87%AA%E5%8A%A9%E6%B8%B8_files/79d95f0cef7840c9be434a1aba47c331.jpg" alt="苏州吴宫泛太平洋酒店">
+						<p class="tgWd">苏州吴宫泛太平洋酒店</p>
+					</a>
+				</div>
+				<div class="tuan_priceInf">
+					<i>¥</i><span class="discount_price">1328</span>
+					<span class="cost_price">¥4952</span>
+					<span class="sale_price">2.7折</span>
+				</div>
+				</li>
+							<li>
+				<div class="tuan_imgInf">
+																				<a href="http://tuan.ly.com/hotel/detail-590708.html" title="扬州壹之家快捷酒店" class="hotelA" target="_blank">
+						<img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="%E5%90%8C%E7%A8%8B%E6%97%85%E6%B8%B8-%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2%EF%BC%8C%E7%89%B9%E4%BB%B7%E6%9C%BA%E7%A5%A8%EF%BC%8C%E6%99%AF%E7%82%B9%E9%97%A8%E7%A5%A8%EF%BC%8C%E5%87%BA%E5%9B%BD%E6%97%85%E6%B8%B8%EF%BC%8C%E9%82%AE%E8%BD%AE%E6%97%85%E8%A1%8C%EF%BC%8C%E8%87%AA%E5%8A%A9%E6%B8%B8_files/c9b2889d5f68439694ee8688880d63f4.jpg" alt="扬州壹之家快捷酒店">
+						<p class="tgWd">扬州壹之家快捷酒店</p>
+					</a>
+				</div>
+				<div class="tuan_priceInf">
+					<i>¥</i><span class="discount_price">82</span>
+					<span class="cost_price">¥159</span>
+					<span class="sale_price">5.2折</span>
+				</div>
+				</li>
+							<li>
+				<div class="tuan_imgInf">
+																				<a href="http://tuan.ly.com/hotel/detail-341718.html" title="南京国仕达酒店" class="hotelA" target="_blank">
+						<img style="background: url(&quot;http://img1.40017.cn/cn/comm/images/cn/public/transparent_loading_v2.gif?v=20140417&quot;) no-repeat scroll center center rgb(255, 255, 255);" src="%E5%90%8C%E7%A8%8B%E6%97%85%E6%B8%B8-%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2%EF%BC%8C%E7%89%B9%E4%BB%B7%E6%9C%BA%E7%A5%A8%EF%BC%8C%E6%99%AF%E7%82%B9%E9%97%A8%E7%A5%A8%EF%BC%8C%E5%87%BA%E5%9B%BD%E6%97%85%E6%B8%B8%EF%BC%8C%E9%82%AE%E8%BD%AE%E6%97%85%E8%A1%8C%EF%BC%8C%E8%87%AA%E5%8A%A9%E6%B8%B8_files/fe9c21bd3f2e41dd9c474295391abddd.jpg" alt="南京国仕达酒店">
+						<p class="tgWd">南京国仕达酒店</p>
+					</a>
+				</div>
+				<div class="tuan_priceInf">
+					<i>¥</i><span class="discount_price">180</span>
+					<span class="cost_price">¥268</span>
+					<span class="sale_price">6.7折</span>
+				 </div>
+				</li>
+						</ul>
+				</div>
+	</div>
+</div></div>
+</div>
+</div>
+<!--出境游部分 end-->
+
+
 </div>
 </div>
 <jsp:include page="foot.jsp"></jsp:include>

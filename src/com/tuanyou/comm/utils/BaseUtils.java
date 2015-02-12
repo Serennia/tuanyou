@@ -358,4 +358,24 @@ public class BaseUtils {
         }  
 	    	}
  	
+	    
+	    public static String getfilepath(String type,String model){
+	    	String filepath=Constant.upload_file_path;
+	    	if(type.equals("img")){
+	    		filepath+="/img";
+	    	   	if(model.equals("huandengpian")){
+		    		filepath+="/huandengpian";
+		    	}
+		    	if(model.equals("jingdian")){
+		    		filepath+="/jingdian";
+		    	}
+		    	if(model.equals("zhoumo")){
+		    		filepath+="/zhoumo";
+		    	}
+		    	if(model.equals("chujing")){
+		    		filepath+="/chujing";
+		    	}
+	    	}
+	    	return filepath;
+	    }
 }

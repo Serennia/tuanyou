@@ -12,6 +12,7 @@ import com.jfinal.plugin.activerecord.CaseInsensitiveContainerFactory;
 import com.jfinal.plugin.c3p0.C3p0Plugin;
 import com.jfinal.plugin.ehcache.EhCachePlugin;
 import com.jfinal.render.ViewType;
+import com.sun.xml.internal.ws.api.streaming.XMLStreamReaderFactory.Default;
 import com.tuanyou.comm.controller.sys.SysAclController;
 import com.tuanyou.comm.controller.sys.SysDictController;
 import com.tuanyou.comm.controller.sys.SysLoginController;
@@ -20,8 +21,10 @@ import com.tuanyou.comm.controller.sys.SysUserRoleController;
 import com.tuanyou.comm.controller.sys.SystemFavouriteController;
 import com.tuanyou.comm.controller.sys.SystemMenuController;
 import com.tuanyou.comm.controller.sys.SystemWebController;
+import com.tuanyou.comm.controller.tuanyou.HomePageController;
 import com.tuanyou.comm.handler.TuanyouActionHandler;
 import com.tuanyou.comm.plugin.InitSqlPlugin;
+import com.tuanyou.comm.utils.Constant;
 
 public class TuanConfig extends JFinalConfig{
 
@@ -31,8 +34,10 @@ public class TuanConfig extends JFinalConfig{
 		me.setDevMode(getPropertyToBoolean("devMode", false));
 		me.setViewType(ViewType.JSP); 							// 设置视图类型为Jsp，否则默认为FreeMarker
 		me.setBaseViewPath("/pages");
+		me.setUploadedFileSaveDirectory(Constant.default_upload_file_path);
+		me.setMaxPostSize(1024*1000*100);
 	}
-
+	
 	@Override
 	public void configRoute(Routes me) {
 		me.add("/", CommonController.class);
@@ -45,6 +50,7 @@ public class TuanConfig extends JFinalConfig{
 		me.add("/sysAcl",SysAclController.class);
 		me.add("/sysUserRole",SysUserRoleController.class);
 		
+		me.add("/homepage",HomePageController.class);
 	}
 
 	@Override
